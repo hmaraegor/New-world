@@ -475,6 +475,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "potato": "2020-06-02 13:47:21 +0300",
       "bread": "2020-05-25 19:56:45 +0300",
       "melon_slice": "2020-05-25 08:23:36 +0300",
       "carrot": "2020-05-31 21:13:16 +0300"
@@ -1880,6 +1881,12 @@
   "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
       "has_the_recipe": "2020-05-25 21:18:20 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2020-06-02 13:48:09 +0300"
     },
     "done": true
   },
