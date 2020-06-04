@@ -493,6 +493,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "baked_potato": "2020-06-04 13:11:38 +0300",
       "potato": "2020-06-02 13:47:21 +0300",
       "bread": "2020-05-25 19:56:45 +0300",
       "melon_slice": "2020-05-25 08:23:36 +0300",
