@@ -41,6 +41,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2020-06-05 16:20:53 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone": {
     "criteria": {
       "has_vine": "2020-05-25 07:04:32 +0300"
@@ -384,9 +390,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2020-06-05 16:20:53 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/yellow_dye_from_sunflower": {
     "criteria": {
       "has_double_plant": "2020-06-01 04:43:55 +0300"
+    },
+    "done": true
+  },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2020-06-05 16:26:01 +0300"
     },
     "done": true
   },
@@ -509,6 +527,7 @@
       "minecraft:blaze": "2020-06-04 22:19:04 +0300",
       "minecraft:skeleton": "2020-05-25 20:05:25 +0300",
       "minecraft:zombie_pigman": "2020-06-04 22:08:05 +0300",
+      "minecraft:ghast": "2020-06-05 16:18:24 +0300",
       "minecraft:magma_cube": "2020-06-04 22:20:26 +0300",
       "minecraft:spider": "2020-05-25 08:44:30 +0300",
       "minecraft:creeper": "2020-06-01 05:16:21 +0300",
@@ -1314,6 +1333,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2020-06-05 16:20:53 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2020-05-25 20:16:11 +0300"
@@ -1495,6 +1520,12 @@
   "minecraft:recipes/building_blocks/smooth_sandstone": {
     "criteria": {
       "has_sandstone": "2020-05-25 07:04:32 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2020-06-05 16:20:53 +0300"
     },
     "done": true
   },
@@ -2172,6 +2203,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2020-06-05 16:20:53 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_pressure_plate": {
     "criteria": {
       "has_planks": "2020-05-25 07:04:32 +0300"
@@ -2247,6 +2284,12 @@
   "minecraft:recipes/food/pumpkin_pie": {
     "criteria": {
       "has_pumpkin": "2020-05-31 20:31:33 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2020-06-05 16:20:53 +0300"
     },
     "done": true
   },
