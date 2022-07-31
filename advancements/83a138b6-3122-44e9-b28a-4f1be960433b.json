@@ -403,6 +403,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2022-07-31 23:24:56 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_sand": "2022-07-31 15:42:13 +0300"
@@ -518,6 +524,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2022-07-31 23:24:56 +0300"
+    },
+    "done": true
+  },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_helmet": "2022-07-31 15:13:35 +0300"
@@ -527,6 +539,12 @@
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2022-07-31 16:45:46 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2022-07-31 23:24:56 +0300"
     },
     "done": true
   },
@@ -692,6 +710,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2022-07-31 23:24:56 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bowl": {
     "criteria": {
       "has_brown_mushroom": "2022-07-31 15:13:35 +0300"
@@ -764,6 +788,7 @@
       "minecraft:skeleton": "2022-07-31 15:44:23 +0300",
       "minecraft:spider": "2022-07-31 15:42:08 +0300",
       "minecraft:creeper": "2022-07-31 15:44:30 +0300",
+      "minecraft:phantom": "2022-07-31 23:36:28 +0300",
       "minecraft:husk": "2022-07-31 15:43:28 +0300",
       "minecraft:enderman": "2022-07-31 17:20:26 +0300",
       "minecraft:zombie": "2022-07-31 15:41:03 +0300",
@@ -822,6 +847,12 @@
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
       "has_planks": "2022-07-31 15:13:35 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2022-07-31 23:24:56 +0300"
     },
     "done": true
   },
@@ -1077,6 +1108,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2022-07-31 23:24:56 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2022-07-31 17:13:18 +0300"
@@ -1167,6 +1204,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2022-07-31 23:24:56 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2022-07-31 17:04:44 +0300"
@@ -1235,6 +1278,8 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:deep_ocean": "2022-07-31 23:29:45 +0300",
+      "minecraft:windswept_hills": "2022-07-31 23:37:09 +0300",
       "minecraft:savanna_plateau": "2022-07-31 15:35:44 +0300",
       "minecraft:beach": "2022-07-31 15:24:26 +0300",
       "minecraft:river": "2022-07-31 15:33:32 +0300",
