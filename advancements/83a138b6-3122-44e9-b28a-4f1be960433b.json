@@ -1362,6 +1362,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2022-08-01 23:53:29 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_sand": "2022-07-31 15:42:13 +0300"
@@ -1485,6 +1491,12 @@
   "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2022-07-31 15:29:12 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2022-08-01 23:53:29 +0300"
     },
     "done": true
   },
@@ -1646,6 +1658,7 @@
       "minecraft:savanna_plateau": "2022-07-31 15:35:44 +0300",
       "minecraft:beach": "2022-07-31 15:24:26 +0300",
       "minecraft:dark_forest": "2022-07-31 23:42:12 +0300",
+      "minecraft:sparse_jungle": "2022-08-01 23:31:50 +0300",
       "minecraft:river": "2022-07-31 15:33:32 +0300",
       "minecraft:lukewarm_ocean": "2022-07-31 23:46:51 +0300",
       "minecraft:forest": "2022-07-31 15:24:31 +0300",
@@ -2032,5 +2045,5 @@
     },
     "done": true
   },
-  "DataVersion": 3117
+  "DataVersion": 3105
 }
